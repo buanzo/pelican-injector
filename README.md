@@ -26,7 +26,7 @@ Then add `pelican_injector` to your `PLUGINS` list in the `pelicanconf.py` file:
         'pelican_injector',
     ]
 ```
-
+NOTE: I have submitted this plugin to Pelican, so hopefully in the future you will only need to pip install pelican-injector.
 
 ## Settings
 
